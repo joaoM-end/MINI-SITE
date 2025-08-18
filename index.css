@@ -17,11 +17,18 @@ a {
     text-decoration: none;
 }
 
+header {
+    background-color: rgb(27, 27, 148);
+    color: white;
+    padding: 15px;
+    text-align: center;
+}
+
 header img {
     width: 150px;
     height: 150px;
     border-radius: 50%;
-    border: 5px solid rgb(19, 19, 109);
+    border: 5px solid rgb(0, 0, 0);
 
 }
 
@@ -30,7 +37,7 @@ header img {
 }
 
 h1 {
-    color: rgb(21, 21, 173);
+    color: rgb(0, 0, 0);
 }
 
 footer img {
@@ -42,10 +49,10 @@ footer img {
 }
 
 footer {
-
-    justify-content: center;
-    width: auto;
-    height: auto;
+    background-color: rgb(27, 27, 148);
+    color: white;
+    text-align: center;
+    padding: 50px;
 }
 
 footer a {
